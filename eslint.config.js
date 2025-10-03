@@ -222,7 +222,7 @@ module.exports = [
       "prefer-numeric-literals": "warn",
       "prefer-object-has-own": "warn",
       "prefer-object-spread": "warn",
-      "prefer-promise-reject-warns": "warn",
+      "prefer-promise-reject-errors": "warn",
       "prefer-regex-literals": "warn",
       "prefer-rest-params": "warn",
       "prefer-spread": "warn",
